@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cattvs2021
+- 👀 I’m interested in creating my own website for a future small business. 
+- 🌱 I’m currently learning the basics of HTML, CSS, Javascript and Jquery. 
+- 📫 How to reach me cattvs2021@gmail.com
